@@ -19,7 +19,7 @@
         <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
 
-```bash
+```
 suphalbochkar@github:~$ ./welcome.sh
 ```
 
@@ -35,7 +35,7 @@ suphalbochkar@github:~$ ./welcome.sh
 🐧 I use Arch btw...
 🎧 Most likely listening to a song right now
 🔄 To understand recursion, you first need to understand recursion.
-
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
 
   </div>

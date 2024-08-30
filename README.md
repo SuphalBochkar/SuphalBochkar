@@ -18,7 +18,7 @@
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
-  
+
 ```bash
 suphalbochkar@github:~$ ./welcome.sh
 ```
@@ -34,7 +34,8 @@ suphalbochkar@github:~$ ./welcome.sh
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
 🎧 Most likely listening to a song right now
-🔄 "To understand recursion, you first need to understand recursion." - Paradox
+🔄 To understand recursion, you first need to understand recursion.
+
 ```
 
   </div>
@@ -46,7 +47,7 @@ suphalbochkar@github:~$ ./welcome.sh
 
 <div style="display: flex;">
   <div style="display: flex; flex-direction: column;">
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Languages</b>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Languages</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" height="25" />
@@ -57,7 +58,7 @@ suphalbochkar@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
     </p>
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Libraries</b>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Libraries</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" height="25" />
@@ -66,12 +67,7 @@ suphalbochkar@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
     </p>
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b>
-    <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
-    </p>
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <!-- Version Control -->
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
@@ -88,21 +84,27 @@ suphalbochkar@github:~$ ./welcome.sh
       <!-- Database & Authentication -->
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="25" />
     </p>
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b>
+        <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b> -->
+    <p align="center" style="display: flex; gap: 9px">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
+    </p>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg" alt="Vim" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" alt="Neovim" height="25" />
     </p>
-    <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b> -->
     <p align="center" style="display: flex; gap: 9px; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="25" />
+      <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="25" /> -->
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" alt="Mac OS" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch Linux" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux" height="25" />
     </p>
+
   </div>
 </div>
 
@@ -124,27 +126,27 @@ suphalbochkar@github:~$ ./welcome.sh
 <div style="display: flex; gap: 30px; align-items: center">
     <img align="left" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="70" style>
     <div style="display: flex; gap: 3px; align-items: center;">
-        <a href="https://www.linkedin.com/in/suphalbochkar" target="_blank" rel="noreferrer"> 
-            <picture> 
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-            </picture> 
-        </a> 
-        <a href="https://www.x.com/suphalbochkar" target="_blank" rel="noreferrer"> 
-            <picture> 
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-            </picture> 
+        <a href="https://www.linkedin.com/in/suphalbochkar" target="_blank" rel="noreferrer">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+            </picture>
         </a>
-        <a href="http://www.instagram.com/suphalbochkar" target="_blank" rel="noreferrer"> 
-            <picture> 
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-            </picture> 
-        </a> 
+        <a href="https://www.x.com/suphalbochkar" target="_blank" rel="noreferrer">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+            </picture>
+        </a>
+        <a href="http://www.instagram.com/suphalbochkar" target="_blank" rel="noreferrer">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+            </picture>
+        </a>
     </div>
 </div>
 

@@ -1,14 +1,14 @@
 <!-- Main Top PC GIF -->
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="auto" />
 </div>
 
 <div align="center">
 
-## We often put so much energy into the big picture, we forget the pixels.
+## We often put so much energy into the big picture, we forget the pixels. -->
 
-</div>
+<!-- </div> -->
 
 <!-- About ME -->
 
@@ -120,4 +120,5 @@ suphalbochkar@github:~$ ./welcome.sh
 </div>
 
 <br>
+
 
